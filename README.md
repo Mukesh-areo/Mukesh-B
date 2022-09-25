@@ -2,8 +2,12 @@
 
 # Hey! Nice to see you.
 
-##I have technical experience and interest in -
+## I have technical experience and interest in -
+- Machine Learning
 - Computer vision
 - Natural Language Processing
-- Embedded systems
+- Ultrasonic Testing (Non Destructive Testing)
 - Robotics
+
+## Languages and Tools:
+python 
