@@ -18,12 +18,14 @@
 [![](https://img.shields.io/badge/numpy-695170?style=for-the-badge&logo=numpy&logoColor=white)](#) &emsp;
 [![](https://img.shields.io/badge/OpenCV-a5eb60?style=for-the-badge&logo=opencv_python&logoColor=white)](#) &emsp;
 [![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#) &emsp;
-[![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#) &emsp;
-[![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#) &emsp;
+[![](https://img.shields.io/badge/MLOops-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#) &emsp;
+[![](https://img.shields.io/badge/MLFlow-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#) &emsp;
 [![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](#) &emsp;
 [![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](#) &emsp;
 [![](https://img.shields.io/badge/Git-f02913?style=for-the-badge&logo=git&logoColor=white)](#) &emsp;
 [![](https://img.shields.io/badge/mongodb-f02913?style=for-the-badge&logo=git&logoColor=white)](#) &emsp;
+[![](https://img.shields.io/badge/AWS-3776AB?style=for-the-badge&logo=python&logoColor=white)](#) &emsp;
+[![](https://img.shields.io/badge/Tableau-a5eb60?style=for-the-badge&logo=opencv_python&logoColor=white)](#) &emsp;
 
 
 <br>
