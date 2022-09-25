@@ -26,7 +26,7 @@
 [![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](#) &emsp;
 [![](https://img.shields.io/badge/Git-f02913?style=for-the-badge&logo=git&logoColor=white)](#) &emsp;
 [![](https://img.shields.io/badge/mongodb-f02913?style=for-the-badge&logo=git&logoColor=white)](#) &emsp;
-[![](https://img.shields.io/badge/AWS-3776AB?style=for-the-badge&logo=python&logoColor=white)](#) &emsp;
+[![](https://img.shields.io/badge/AWS-3776AB?style=for-the-badge&logo=AWS&logoColor=white)](#) &emsp;
 [![](https://img.shields.io/badge/Tableau-a5eb60?style=for-the-badge&logo=opencv_python&logoColor=white)](#) &emsp;
 
 
