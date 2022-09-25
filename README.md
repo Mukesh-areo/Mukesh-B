@@ -9,6 +9,7 @@
 - Ultrasonic Testing (Non Destructive Testing)
 - Robotics
 - UAV
+- Solid Works
 
 ## Skills 🚀 
 
