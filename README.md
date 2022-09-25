@@ -10,4 +10,5 @@
 - Robotics
 
 ## Languages and Tools:
-python 
+$ python 
+arduino bash bootstrap css3 docker flask git heroku html5 linux mongodb mysql opencv postman python pytorch scikit_learn tensorflow
