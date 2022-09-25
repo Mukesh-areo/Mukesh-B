@@ -9,7 +9,8 @@
 - Ultrasonic Testing (Non Destructive Testing)
 - Robotics
 - UAV
-- Solid Works
+- CAD Modeling (Solid Works,Catia V5)
+- Anaysis tools(Ansys)
 
 ## Skills 🚀 
 
