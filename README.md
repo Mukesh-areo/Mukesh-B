@@ -8,6 +8,7 @@
 - Natural Language Processing
 - Ultrasonic Testing (Non Destructive Testing)
 - Robotics
+- UAV
 
 ## Skills 🚀 
 
