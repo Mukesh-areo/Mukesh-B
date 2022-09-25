@@ -23,6 +23,7 @@
 [![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](#) &emsp;
 [![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](#) &emsp;
 [![](https://img.shields.io/badge/Git-f02913?style=for-the-badge&logo=git&logoColor=white)](#) &emsp;
+[![](https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress)&emsp;
 
 <br>
 
